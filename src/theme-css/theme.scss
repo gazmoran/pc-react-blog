@@ -1,0 +1,13 @@
+//custom variables
+$primary: red;
+
+@import '../../node_modules/bootstrap/scss/functions';
+@import '../../node_modules/bootstrap/scss/variables';
+
+$custom-theme-colors:(
+  "altprimary": blue,
+  "altsecondary": red
+);
+
+//import bootstrap
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
