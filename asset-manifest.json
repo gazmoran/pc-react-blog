@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pc-react-blog/static/css/main.99ee8f53.css",
+    "main.js": "/pc-react-blog/static/js/main.d981c2bc.js",
+    "index.html": "/pc-react-blog/index.html",
+    "main.99ee8f53.css.map": "/pc-react-blog/static/css/main.99ee8f53.css.map",
+    "main.d981c2bc.js.map": "/pc-react-blog/static/js/main.d981c2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99ee8f53.css",
+    "static/js/main.d981c2bc.js"
+  ]
+}
