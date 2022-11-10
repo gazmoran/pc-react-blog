@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pc-react-blog/static/css/main.05cdc205.css",
-    "main.js": "/pc-react-blog/static/js/main.ae588499.js",
+    "main.js": "/pc-react-blog/static/js/main.ea9d8ed5.js",
     "index.html": "/pc-react-blog/index.html",
     "main.05cdc205.css.map": "/pc-react-blog/static/css/main.05cdc205.css.map",
-    "main.ae588499.js.map": "/pc-react-blog/static/js/main.ae588499.js.map"
+    "main.ea9d8ed5.js.map": "/pc-react-blog/static/js/main.ea9d8ed5.js.map"
   },
   "entrypoints": [
     "static/css/main.05cdc205.css",
-    "static/js/main.ae588499.js"
+    "static/js/main.ea9d8ed5.js"
   ]
 }
